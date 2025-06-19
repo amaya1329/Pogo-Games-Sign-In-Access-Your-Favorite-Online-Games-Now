@@ -1,3 +1,5 @@
+project = 'Pogo Games Guide'
+author = 'Your Name'
 release = '1.0'
 
 extensions = []
